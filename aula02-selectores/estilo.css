@@ -1,0 +1,20 @@
+/* SELEÇÃO POR TAG*/
+div{
+    color: red;
+}
+
+
+/* SELEÇÃO POR ID*/
+#container{
+    color: blue;
+}
+
+/* SELEÇÃO POR class*/
+.container2{
+    color: blueviolet;
+}
+
+/* SELEÇÃO POR descendente*/
+div ul li{
+    color: aquamarine  ;
+}

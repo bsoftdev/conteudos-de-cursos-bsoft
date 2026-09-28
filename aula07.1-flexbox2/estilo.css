@@ -1,0 +1,18 @@
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /*end, start, center, space-between*/
+    gap: 20px;
+    flex-direction: column-reverse; /*row, column*/ 
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    border: 3px solid red;
+    margin: 10px;
+    padding: 10px;
+    line-height: 200px;
+    text-align: center;
+}

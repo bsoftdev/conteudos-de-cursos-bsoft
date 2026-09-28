@@ -1,0 +1,19 @@
+
+section{
+    display: flex;
+    flex-wrap: wrap;/* wrap, no-wrap*/
+    justify-content: center; /*start, end, cender, space-between, space-evenly, space-around*/
+    flex-direction: row; /*column, row, row-reverse, column-reverse*/
+    gap: 30px;
+}
+
+section div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 8px;
+    line-height: 200px;
+    text-align: center; 
+   
+}

@@ -1,0 +1,25 @@
+table{
+    width: 500px;
+    margin: 30px auto;
+    border-collapse: collapse;
+    
+}
+
+table thead{
+     background-color: black;
+     color: white;
+}
+
+table tr td, thead th{
+     padding: 4px;
+     text-align: center;
+}
+
+/*
+table tr:nth-child(even){
+    background-color: rgb(139, 142, 142);
+}*/
+
+table tr:hover{
+    background-color: rgb(139, 142, 142);;
+}

@@ -1,0 +1,32 @@
+div{
+    width: 200px;
+    height: 200px;
+
+    /*BORDER
+
+    border-width: 5px;
+    border-color: rgb(32, 13, 238);
+    border-style: double;*/
+
+/*
+    border-top-width: 10px;
+    border-top-color: brown;
+    border-top-style:dashed ;*/
+
+    border: 4px solid blue;
+    border-radius: 10%;
+
+
+    /*MARGIN
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 40px;
+    margin-bottom: 30px;*/
+
+    margin:20px auto ;
+
+    
+     /*PADDING */
+
+     padding: 20px 30px;
+}

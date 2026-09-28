@@ -1,0 +1,23 @@
+
+section p{
+    /*FORMATAÇÃO DE TEXTO*/
+    color: rgb(22, 20, 23);
+    text-align: left; /*center, justify, left , right*/
+    text-decoration: none; /*overliner, underline, line-through ,*/
+    text-transform: capitalize;/*uppercase, lowercase, capitalize*/
+    text-indent: 50px;
+
+    /*FONTS*/
+    font-size: 10pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bolder; /*100 - 900, bold, bolder*/
+    font-style: italic;
+    
+}
+
+section a{
+    text-decoration: none;
+}
+
+
+
